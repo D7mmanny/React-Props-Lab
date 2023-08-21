@@ -1,0 +1,18 @@
+body{
+  display: grid;
+  grid-column: 1fr 1fr 1fr;
+}
+.app{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.dd{
+  width: 20%;
+ border: 2px solid;
+}
+p{
+  text-align: center;
+  background-color: rgb(26, 93, 200);
+  color: aliceblue;
+}
